@@ -1,2 +1,3 @@
 # sct
-backpacking and bikepacking blog by stampedehikes
+
+Backpacking and bikepacking blog by stampedehikes.
